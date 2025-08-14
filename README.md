@@ -67,8 +67,7 @@ and tools related to data wrangling and management.
 > Still under development.  
 > Planned to add explanations about written R codes.
 
-
-[Stored under R folder](https://github.com/stonynots/portfolio/tree/main/R)
+Stored under [R folder](R/)
 
 ---
 
@@ -78,4 +77,4 @@ and tools related to data wrangling and management.
 > This section is also still under development.  
 > Also planned to add description of SQL statements.
 
-[Stored under SQL folder](https://github.com/stonynots/portfolio/tree/main/SQL)
+Stored under [SQL folder](SQL/)
