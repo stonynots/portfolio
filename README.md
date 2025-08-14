@@ -75,7 +75,7 @@ and tools related to data wrangling and management.
 # SQL
 
 > [!IMPORTANT]
-> This section is also still under development.
+> This section is also still under development.  
 > Also planned to add description of SQL statements.
 
 [Stored under SQL folder](https://github.com/stonynots/portfolio/tree/main/SQL)
