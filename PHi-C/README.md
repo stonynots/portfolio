@@ -4,7 +4,7 @@
 This section is my record for experimenting with  
 previous version of PHi-C and
 newer version which is PHi-C2.  
-(During mid August 2025)
+(August 2025)
 
 ---
 
@@ -59,8 +59,31 @@ animation controls are shown.
 
 ![five](./five.png)
 
+---
+
 # PHi-C2
 
-> [!IMPORTANT]
-> This section is also <ins> under development<ins>.  
-> Thank you,
+Official code is avaialble here
+[GitHub](https://github.com/soyashinkai/PHi-C2)
+
+- To run a code under Apple M4 environment
+- Use Miniconda
+- Follow README.md instruction
+
+# Result
+
+After running each commend,<br>
+under demo directory, new directory named<br>
+ES_mapq30_KR_chr8_42100000-44525000_res25000bp<br>
+will be created<br>
+
+Under data_dynamic folder, there are 2 files as result
+- polymer_N97.psf
+- sample0.xyz
+
+Load those files in VMD (Visual Molecular Dynamics) Software<br>
+to get result as well as animation to run.<br>
+
+## Result after running PHi-C2 and VMD
+
+![six](./six.png)

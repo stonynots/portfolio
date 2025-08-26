@@ -1,10 +1,3 @@
-> [!IMPORTANT]
-> This [portfolio] repository is <ins>currently under development</ins>.
-
-> [!NOTE]
-> Final update and <ins>release is planned on Fri, Aug 22nd, 2025</ins>.  
-> Thank you,
-
 # Portfolio
 Representation of my current skill set
 
@@ -63,18 +56,26 @@ and tools related to data wrangling and management.
 
 # R
 
-> [!IMPORTANT]
-> Still under development.  
-> Planned to add explanations about written R codes.
+Use of R language with RStudio was implemented<br>
+in order to organize institutional data<br>
+such as student attendance and related data.
 
 Stored under [R folder](R/)
+
+- attendance.R is weekly attendance report calculation and reporting
+- history.R is combining all types of data for reporting
+- class-survery-progress.R is tracking and progress of student survey
+- class-survery-answers.R is sutudent survey result output
 
 ---
 
 # SQL
 
-> [!IMPORTANT]
-> This section is also still under development.  
-> Also planned to add description of SQL statements.
-
 Stored under [SQL folder](SQL/)
+
+These SQL statements were written for<br>
+managing COVID-19 vaccination effort database management.
+
+- VIEW to check all entries
+- UPDATE to update current data
+- UNION to view 1st and 2nd shots status
